@@ -1,5 +1,5 @@
 BMI CALCULATOR:
 This app calculate Body Mass Index (BMI)
 
-![ABC](BMI2.jpg)
+![ABC](BMI_CALCULATOR_SCREENSHOTS/BMI CALCULATOR.mp4)
 
