@@ -3,6 +3,6 @@ This app calculate Body Mass Index (BMI)
 
 
 
-<center><img src="BMI_CALCULATOR_SCREENSHOTS/pic 1.PNG" ></center>
+<img src="BMI_CALCULATOR_SCREENSHOTS/pic 1.PNG" width="500" >
 <img src="BMI_CALCULATOR_SCREENSHOTS/pic2.png" >
 
